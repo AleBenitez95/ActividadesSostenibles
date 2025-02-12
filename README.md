@@ -17,7 +17,7 @@
 - [Empresas tecnológicas que aplican medidas sostenibles)](Empresas.md)
 - [Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental](Acciones.md)
 
-[Mapa conceptua](Mapa.md)
+[Mapa conceptual](Mapa.md)
 
 [Glosario](Glosario.md)
 
