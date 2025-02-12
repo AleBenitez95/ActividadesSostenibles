@@ -26,4 +26,6 @@
 
 [Referencias](Referencias.md)
 
-[Autores](Autores.md)
+
+**Autor** [Alejandro Benítez](https://github.com/AleBenitez95)
+
