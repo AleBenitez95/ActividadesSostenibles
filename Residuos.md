@@ -1,0 +1,3 @@
+# Generación de residuos electrónicos
+
+La generación mundial de residuos electrónicos está aumentando cinco veces más rápido que el reciclaje documentado de desechos electrónicos, según revela el cuarto Global E-Waste Monitor (GEM) de la ONU. Los 62 millones de toneladas de desechos electrónicos generados en 2022 llenarían 1,55 millones de camiones de 40 toneladas, aproximadamente suficientes camiones para formar una línea de parachoques a parachoques que rodee el ecuador, según el informe de la Unión Internacional de Telecomunicaciones (UIT) y el Instituto de las Naciones Unidas para Formación Profesional e Investigaciones (UNITAR)
