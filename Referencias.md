@@ -1,12 +1,9 @@
-1.- Impacto ambiental del sector TI [Impacto.md]  
 
 - [Alto consumo energético de los centros de datos](https://dconceptgroup.com/impacto-de-los-datacenters-en-el-medio-ambiente-y-sostenibilidad/)  
 
 - [Generación de residuos electrónicos](https://www.retema.es/actualidad/la-generacion-de-residuos-electronicos-crece-5-veces-mas-rapido-que-su-reciclaje)  
 
 - [Emisiones de CO₂ y contaminación](https://www.bbva.com/es/sostenibilidad/que-es-el-dioxido-de-carbono-co2-y-como-impacta-en-el-planeta/)  
-
-
 
 - [Uso de energías renovables](http://www.ades.tv/es/empresa/energias-renovables/id/201)  
 
