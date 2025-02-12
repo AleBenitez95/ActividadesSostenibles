@@ -14,7 +14,7 @@
 
 3.- Ejemplos y buenas prácticas 
 
-- [Empresas tecnológicas que aplican medidas sostenibles)](Empresas.md)
+- [Empresas tecnológicas que aplican medidas sostenibles](Empresas.md)
 - [Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental](Acciones.md)
 
 [Mapa conceptual](Mapa.md)
