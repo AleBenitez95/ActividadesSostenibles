@@ -15,7 +15,7 @@
 - [Optimización del hardware y virtualización](Optimización.md)
 - [Reciclaje y reutilización de equipos electrónicos](Reciclaje.md)
 
- Ejemplos y buenas prácticas 
+3. Ejemplos y buenas prácticas 
 
 - [Empresas tecnológicas que aplican medidas sostenibles](Empresas.md)
 - [Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental](Acciones.md)
